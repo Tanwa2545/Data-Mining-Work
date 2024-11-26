@@ -1,0 +1,11 @@
+colour,type,origin,stolen
+Red,Sport,Domestic,Yes
+Red,Sport,Domestic,No
+Red,Sport,Domestic,Yes
+Yellow,Sport,Domestic,No
+Yellow,Sport,Imported,Yes
+Yellow,SUV,Imported,No
+Yellow,SUV,Imported,Yes
+Yellow,SUV,Domestic,No
+Red,SUV,Imported,No
+Red,Sport,Imported,Yes
